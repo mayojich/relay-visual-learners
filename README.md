@@ -1,6 +1,8 @@
 relay-visual-learners
 =====================
 
+[Demo!](mayojich.github.io/relay-visual-learners)
+
 Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself.
 
 I tend to learn things better when I can see how things fit together, so I made this interactive diagram that attempts to explain how Relay’s various parts fit together.
